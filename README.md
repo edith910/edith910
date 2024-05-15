@@ -6,6 +6,8 @@ Mi fuerte en general, es el diseño, ya sea web o prototipado con el uso de figm
 **Actualmente me encuentro estudiando en:** Universidad Autónoma de  Querétaro.
 
 **Sobre mí:**
+- Soy del Municipio de San Miguel de Allende.
+- Tengo 20 años.
 - Me encanta leer.
 - Amo ver k-dramas.
 - Me facina escuchar música en mi tiempo libre.
