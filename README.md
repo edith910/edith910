@@ -1,16 +1,18 @@
-### Hi there 👋
+Hola, soy edith 
 
-<!--
-**edith910/edith910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingenieria de Software, actualmente me encuentro en 4to semestre, tengo experincia con diversos lenguajes, C#, Python, C++, Java y PL/SQL, ademas de contar con conocimientos en HTML, CSS, JavaScript y SQL.
+Mi fuerte en general, es el diseño, ya sea web o prototipado con el uso de figma.
 
-Here are some ideas to get you started:
+**Actualmente me encuentro estudiando en:** Universidad Autónoma de  Querétaro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sobre mí:**
+- Me encanta leer.
+- Amo ver k-dramas.
+- Me facina escuchar música en mi tiempo libre.
+
+**Mis metas:**
+- Lograr ser una muy buena programadora.
+- Tener mucho conocimiento respecto a varios lenguajes.
+- Certificarme en varios cursos (por el momento cuento con 3 certificados).
+- Estudiar ciberseguridad, ya sea una carrera o algun curso.
+- Dominar el inglés a la perfección.
