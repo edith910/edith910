@@ -1,5 +1,5 @@
 ![banner](/saludo(1).png)
-Hola, soy edith 
+Hola, soy edith!
 
 Soy estudiante de Ingenieria de Software, actualmente me encuentro en 4to semestre, tengo experincia con diversos lenguajes, C#, Python, C++, Java y PL/SQL, ademas de contar con conocimientos en HTML, CSS, JavaScript y SQL.
 Mi fuerte en general, es el diseño, ya sea web o prototipado con el uso de figma.
