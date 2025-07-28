@@ -8,8 +8,8 @@ Mi fuerte en general, es el diseño, ya sea web o prototipado con el uso de figm
 
 **Sobre mí:**
 - Soy del Municipio de San Miguel de Allende.
-- Tengo 20 años.
-- Me encanta leer.
+- Tengo 21 años.
+- Me encanta leer (romance en general).
 - Amo ver k-dramas.
 - Me facina escuchar música en mi tiempo libre.
 
