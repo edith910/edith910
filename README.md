@@ -1,7 +1,7 @@
 ![banner](/saludo.png)
 Hola, soy edith!
 
-Soy estudiante de Ingenieria de Software, actualmente me encuentro en 4to semestre, tengo experincia con diversos lenguajes, C#, Python, C++, Java y PL/SQL, ademas de contar con conocimientos en HTML, CSS, JavaScript y SQL.
+Soy estudiante de Ingenieria de Software, actualmente me encuentro en 7to semestre, tengo experincia con diversos lenguajes, C#, Python, C++, Java y PL/SQL, ademas de contar con conocimientos en HTML, CSS, JavaScript y SQL.
 Mi fuerte en general, es el diseño, ya sea web o prototipado con el uso de figma.
 
 **Actualmente me encuentro estudiando en:** Universidad Autónoma de  Querétaro.
